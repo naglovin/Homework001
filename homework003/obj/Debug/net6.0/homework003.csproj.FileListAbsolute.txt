@@ -1,0 +1,15 @@
+A:\git work\С#\home\homework003\bin\Debug\net6.0\homework003.exe
+A:\git work\С#\home\homework003\bin\Debug\net6.0\homework003.deps.json
+A:\git work\С#\home\homework003\bin\Debug\net6.0\homework003.runtimeconfig.json
+A:\git work\С#\home\homework003\bin\Debug\net6.0\homework003.dll
+A:\git work\С#\home\homework003\bin\Debug\net6.0\homework003.pdb
+A:\git work\С#\home\homework003\obj\Debug\net6.0\homework003.csproj.AssemblyReference.cache
+A:\git work\С#\home\homework003\obj\Debug\net6.0\homework003.GeneratedMSBuildEditorConfig.editorconfig
+A:\git work\С#\home\homework003\obj\Debug\net6.0\homework003.AssemblyInfoInputs.cache
+A:\git work\С#\home\homework003\obj\Debug\net6.0\homework003.AssemblyInfo.cs
+A:\git work\С#\home\homework003\obj\Debug\net6.0\homework003.csproj.CoreCompileInputs.cache
+A:\git work\С#\home\homework003\obj\Debug\net6.0\homework003.dll
+A:\git work\С#\home\homework003\obj\Debug\net6.0\refint\homework003.dll
+A:\git work\С#\home\homework003\obj\Debug\net6.0\homework003.pdb
+A:\git work\С#\home\homework003\obj\Debug\net6.0\homework003.genruntimeconfig.cache
+A:\git work\С#\home\homework003\obj\Debug\net6.0\ref\homework003.dll
